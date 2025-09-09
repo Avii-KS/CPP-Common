@@ -62,8 +62,8 @@ Optional:
 - [MSYS2](https://www.msys2.org)
 - [MinGW](https://mingw-w64.org/doku.php)
 - [Visual Studio](https://www.visualstudio.com)
+  
 
-# C++ Development Internship – Project Alignment (CppCommon)
 
 This repository showcases my hands-on experience contributing to a production-grade, cross-platform C++ library. I am applying for the C++ Development Internship and this document maps my work and competencies in this codebase to your job requirements.
 
